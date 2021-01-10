@@ -1,5 +1,7 @@
 # Keras-Tutorials
 
+Thanks for this
+
 Introduction to deep learning based on Keras framework. These tutorials are direct ports of nlintz's [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials).
 
 *Basic Topics (from nlint'z github)*
